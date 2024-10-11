@@ -1,0 +1,116 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v28_17 {
+  width: 393px;
+  height: 852px;
+  background: url("../images/v28_17.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v28_16 {
+  width: 395px;
+  height: 844px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v69_81 {
+  width: 602px;
+  height: 732px;
+  background: url("../images/v69_81.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 116px;
+  left: 103px;
+  overflow: hidden;
+}
+.v66_1149 {
+  width: 707px;
+  height: 803px;
+  background: rgba(16,0,0,0.3499999940395355);
+  opacity: 1;
+  position: absolute;
+  top: 116px;
+  left: 167px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.v101_468 {
+  width: 304px;
+  height: 242px;
+  background: rgba(157,60,46,1);
+  opacity: 1;
+  position: absolute;
+  top: 120px;
+  left: 395px;
+  overflow: hidden;
+}
+.v101_471 {
+  width: 304px;
+  height: 270px;
+  background: rgba(64,91,73,1);
+  opacity: 1;
+  position: absolute;
+  top: 596px;
+  left: 396px;
+  overflow: hidden;
+}
+.v101_469 {
+  width: 304px;
+  height: 242px;
+  background: rgba(200,177,103,1);
+  opacity: 1;
+  position: absolute;
+  top: 354px;
+  left: 303px;
+  overflow: hidden;
+}
+.v66_1152 {
+  width: 362px;
+  color: url("../images/v66_1152.png");
+  position: absolute;
+  top: 443px;
+  left: 17px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v66_49 {
+  width: 219px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 52px;
+  left: 21px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
